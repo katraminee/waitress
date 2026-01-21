@@ -1,6 +1,6 @@
 local order = {}
 
-order.access = false
+order.access = true
 order.pass = "witty"
 
 return order
